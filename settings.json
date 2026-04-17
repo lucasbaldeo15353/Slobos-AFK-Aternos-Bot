@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
-  "bot-account": {
+  "name": "AFKBot",
+  "bot-account": {33
     "username": "24/7bot",
-    "password": "",
+    "password": "11",
     "type": "offline"
   },
   "server": {
     "ip": "aaronswanki.aternos.me",
     "port": 26445,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
