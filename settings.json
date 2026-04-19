@@ -1,7 +1,7 @@
 {
   "name": "AFKBot",
   "bot-account": {
-    "username": "24/7bot",
+    "username": "dholl1tipd",
     "password": "11",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "dholl kontan zanfan",
+        "dholl noir!",
+        "gojo bom sukuna best!"
       ]
     },
     "chat-log": true,
